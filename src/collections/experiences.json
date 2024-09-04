@@ -1,0 +1,23 @@
+[
+	{
+		"dates": "January 2024 - Present",
+		"role": "Senior Software Engineer",
+		"company": "WriteSea",
+		"description": "Responsible for CoverAI and JobSearchGenius, platforms for helping candidates land job faster.",
+		"logo": "/assets/images/experiences/writesea_logo.jpg"
+	},
+	{
+		"dates": "June 2022 - January 2024",
+		"role": "Back End Engineer",
+		"company": "Venturenox",
+		"description": "Core member of TestFuse team. A platform for online test taking and hiring.",
+		"logo": "/assets/images/experiences/venturenox_logo.webp"
+	},
+	{
+		"dates": "May 2021 - June 2022",
+		"role": "Full Stack Engineer",
+		"company": "Sentwitt",
+		"description": "As one of the founding engineers I developed a product for marketing teams to perform analysis on social media.",
+		"logo": "/assets/images/experiences/sentwitt_logo.ico"
+	}
+]

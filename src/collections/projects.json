@@ -1,0 +1,20 @@
+[
+	{
+		"name": "TestFuse",
+		"description": "Hire smarter with job fitness assessments.",
+		"image": "/assets/images/projects/testfuse_dashboard.png",
+		"url": "https://testfuse.com/"
+	},
+	{
+		"name": "Job Search Genius",
+		"description": "Take full control of your job search.",
+		"image": "/assets/images/projects/jsg_dashboard.webp",
+		"url": "https://jobsearchgenius.ai/"
+	},
+	{
+		"name": "CoverAI",
+		"description": "A Platform for creating cover letters and mastering interview techniques.",
+		"image": "/assets/images/projects/coverai_dashboard.jpg",
+		"url": "https://www.coverai.co/"
+	}
+]
